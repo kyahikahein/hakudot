@@ -250,7 +250,8 @@ window.addEventListener('load', () => {
     document.body.addEventListener('click', (e) => {
         if (e.target.closest('#resume-download-btn')) {
             e.preventDefault();
-            alert('Resume download would start here!');
+            alert('will link soon!');
         }
     });
+
 });
